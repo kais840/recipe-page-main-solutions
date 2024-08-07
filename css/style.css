@@ -1,0 +1,109 @@
+
+*{
+    padding:0;
+    margin:0;
+}
+body {
+    background-color: #fdf2e9;
+}
+.container-lg{
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+    width: 50%;
+    margin: auto;
+    background-color: #fff;
+}
+.cc img{
+    width: 100%;
+    padding: 20px;
+}
+@font-face {
+    font-family: 'Outfit-Bold';
+    src:  url('../font/Outfit-Bold.ttf') format('ttf'),
+          url('../font/Outfit-Bold.ttf') format('ttf');
+  }
+  .cc h1{
+    font-family:Outfit-Bold;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-top: 10px;
+  }
+  @font-face {
+    font-family: 'Outfit-Thin';
+    src:  url('../font/Outfit-Thin.ttf') format('ttf'),
+          url('../font/Outfit-Thin.ttf') format('ttf');
+  }
+  .cc p{
+    font-family: Outfit-Thin;
+    padding-left: 20px;
+    padding-top: 10px;
+
+  }
+  span{
+    font-family: Outfit-Thin;
+
+  }
+  .s{
+    font-weight: bold;
+  }
+  .cc2{
+    width:90%;
+    margin: auto;
+    background-color:#fef5e7 ;
+  }
+  .cc2 h2{
+   font-weight: bold;
+  }
+  .cc3{
+    padding: 20px;
+  }
+  .ccc{
+    width:90%;
+    margin: auto;
+  }
+  .ccc1{
+    padding: 20px;
+  }
+  .ccc h2{
+    color: #dc7633;
+    font-weight: bold;
+  }
+  .ccc h2,.ccc p{
+    font-family: Outfit-Thin;
+
+  }
+  .in h2,.in p{
+    font-family: Outfit-Thin;
+
+  }
+  .in h2{
+    color: #dc7633;
+    font-weight: bold;
+  }
+  .in {
+    width: 80%;
+    margin: auto;
+  }
+  .nt {
+    width: 85%;
+    margin: auto;
+  }
+  .nt h2{
+    color: #dc7633;
+    font-weight: bold;
+  }
+  .nt h2,.nt p{
+    font-family: Outfit-Thin;
+
+  }
+  .container1{
+    width: 90%;
+    margin: auto;
+  }
+  
+  @media only screen and (max-width: 800px) {
+    body {
+        background-color: #fff;
+    }
+  }
+
